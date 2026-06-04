@@ -8,7 +8,7 @@ Tagy: tekutost, čas, vědomí, fraktály, nula, vesmír, determinismus
 
 # 2026-06-03 - Tekutost a vědomí času
 
-![26-06-03_Fluidity and time awareness.CZ.png](26-06-03_Fluidity%20and%20time%20awareness.CZ.png)
+![26-06-03-fluidity-and-time-consciousness.CZ.png](26-06-03-fluidity-and-time-consciousness.CZ.png)
 
 ## Úvod
 
