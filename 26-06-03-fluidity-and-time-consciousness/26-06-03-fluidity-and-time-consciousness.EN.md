@@ -1,7 +1,3 @@
-Here is your **Markdown document translated into English**, preserving the structure, tone, and philosophical depth of the original text:
-
-
-
 ---
 **Creation Date:** 2026-06-03
 **Language:** cs

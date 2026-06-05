@@ -37,3 +37,25 @@ This repository is not just a gallery of images, but a structured archive of dia
 [⬆ Back to contents](#contents)
 
 ---
+
+## 2026-05-19 Cymatics as a Mirror of the Atom
+
+![EN picture](26-05-19-cymatics-as-a-mirror-of-the-atom/26-05-19-cymatics-as-a-mirror-of-the-atom-2.png)
+
+[📙 English post](26-05-19-cymatics-as-a-mirror-of-the-atom/26-05-19-cymatics-as-a-mirror-of-the-atom.EN.md)
+[📘 Czech post](26-05-19-cymatics-as-a-mirror-of-the-atom/26-05-19-cymatics-as-a-mirror-of-the-atom.CZ.md)
+
+[⬆ Back to contents](#contents)
+
+---
+
+## 2026-06-03 Matter as Crumpled Spacetime
+
+![EN picture](26-05-16-matter-as-crumpled-space-time/26-05-16-matter-as-crumpled-space-time.EN.png)
+
+[📙 English post](26-05-16-matter-as-crumpled-space-time/26-05-16-matter-as-crumpled-space-time.EN.md)
+[📘 Czech post](26-05-16-matter-as-crumpled-space-time/26-05-16-matter-as-crumpled-space-time.CZ.md)
+
+[⬆ Back to contents](#contents)
+
+---
