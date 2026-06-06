@@ -13,16 +13,16 @@ je jen mentálním cvičením pro rozvíjení fantazie a obrazotvornosti.
 
 ## Obsah
 
-1. [Tekutost jako časová proměnlivost](#1-tekutost-jako-casova-promenlivost)
-2. [Temná energie, nula a zánik struktur](#2-temna-energie-nula-a-zanik-struktur)
-3. [Vědomí jako vlastnost každého objektu a nula jako harmonie](#3-vedomi-jako-vlastnost-kazdeho-objektu-a-nula-jako-harmonie)
-4. [Láska jako tvořivý princip a vesmír jako objektový program](#4-laska-jako-tvorivy-princip-a-vesmir-jako-objektovy-program)
-5. [Oplodněné vajíčko jako model objektového dělení](#5-oplodnene-vajicko-jako-model-objektoveho-deleni)
-6. [Fraktály jako základ vesmírné komprese](#6-fraktaly-jako-zaklad-vesmirne-komprese)
-7. [Vesmír jako optimalizátor hledající nejkratší popis sebe sama](#7-vesmir-jako-optimalizator-hledajici-nejkratsi-popis-sebe-sama)
-8. [Vesmír jako vyvíjející se vědomí a Země jako procesor sebeuvědomění](#8-vesmir-jako-vyvijejici-se-vedomi-a-zeme-jako-procesor-sebeuvedomeni)
-9. [Žádost o vytvoření obrázku](#9-zadost-o-vytvoreni-obrazku)
-10. [Závěrečný dotaz o podstatě původního objektu](#10-zaverecny-dotaz-o-podstate-puvodniho-objektu)
+1. [Tekutost jako časová proměnlivost](#1-tekutost-jako-časová-proměnlivost)
+2. [Temná energie, nula a zánik struktur](#2-temná-energie-nula-a-zánik-struktur)
+3. [Vědomí jako vlastnost každého objektu a nula jako harmonie](#3-vědomí-jako-vlastnost-každého-objektu-a-nula-jako-harmonie)
+4. [Láska jako tvořivý princip a vesmír jako objektový program](#4-láska-jako-tvořivý-princip-a-vesmír-jako-objektový-program)
+5. [Oplodněné vajíčko jako model objektového dělení](#5-oplodněné-vajíčko-jako-model-objektového-dělení)
+6. [Fraktály jako základ vesmírné komprese](#6-fraktály-jako-základ-vesmírné-komprese)
+7. [Vesmír jako optimalizátor hledající nejkratší popis sebe sama](#7-vesmír-jako-optimalizátor-hledající-nejkratší-popis-sebe-sama)
+8. [Vesmír jako vyvíjející se vědomí a Země jako procesor sebeuvědomění](#8-vesmír-jako-vyvíjející-se-vědomí-a-země-jako-procesor-sebeuvědomění)
+9. [Žádost o vytvoření obrázku](#9-žádost-o-vytvoření-obrázku)
+10. [Závěrečný dotaz o podstatě původního objektu](#10-závěrečný-dotaz-o-podstatě-původního-objektu)
 
 [⬅ Zpátky úvodní stránku](../README.md#26-06-03-fluidity-and-time-consciousness)
 
@@ -1356,8 +1356,10 @@ Byl by procesem postupného rozlišování toho, co v tom prvotním potenciálu 
 [⬆ Zpátky na obsah](#obsah)
 
 ---
+
 **Datum vytvoření:** 2026-06-03  
 **Model:** ChatGPT  
 **Kategorie:** filozofie, fyzika, kosmologie  
-**Tagy:** tekutost, čas, vědomí, fraktály, nula, vesmír, determinismus  
+**Tagy:** tekutost, čas, vědomí, fraktály, nula, vesmír, determinismus 
+
 ---

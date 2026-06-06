@@ -239,6 +239,8 @@ Create an image inspired by these four texts.
 
 ![26-06-02_Filozofie lásky a tvoření1.CZ.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD1.CZ.png)
 
+---
+
 1. **Change:**
    Great, and perfect! So, leave the image as it is, and just adjust the texts as follows:
    - Top left: Change *"je > bez lásky"* to *"Bez lásky"* (capitalize the first letter).
@@ -249,27 +251,27 @@ Create an image inspired by these four texts.
 
    So, you don’t need to change the image itself, just adjust the texts for me. :-)
 
----
-
 ![26-06-02_Filozofie lásky a tvoření2.CZ.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD2.CZ.png)
+
+---
 
 2. **Change:**
    Great, thank you so much! Absolutely perfect! :)
    So, the last thing I’d ask is if you could redraw it once more—leave the image as it is, and just translate all four texts into English. :)
    You’ll also need to change the central *"NYNÍ"* to *"NOW"*. :)
 
----
-
 ![26-06-02_Filozofie lásky a tvoření3.EN.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD3.EN.png)
+
+---
 
 3. **Change:**
    I’d also like to ask if you could align the texts on the right side to the right, so that all four texts have even alignment on the outer side and create the imaginary frames.
    Not only should the texts on the right side be aligned to the right, but the top and bottom texts should also align with each other—so if you were to draw a line around their edges, it would form a rectangle that is centered relative to the image. The texts should visually create this frame.
    I’m not sure if I explained this well—if not, feel free to ask again. :)
 
----
-
 ![26-06-02_Filozofie lásky a tvoření4.EN.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD4.EN.png)
+
+---
 
 4. **Change:**
    Perfect, thank you so much! :)
@@ -278,16 +280,17 @@ Create an image inspired by these four texts.
    One element I’d like the new collage to include is a scene from a techno party taking place somewhere in nature under a starry sky, which then transforms into the entire universe. The idea is that techno parties are one of the ways people awaken today, experiencing mystical experiences through the hypnotic rhythms of music and, thanks to drugs like LSD and mushrooms, penetrating the first veils of reality and realizing that their consciousness is much deeper than they originally thought. :)
    But this is just one idea—the rest of the depiction I’ll leave up to you. The task now is to create, alongside this version where the feminine principle is slightly dominant, a second one in the series that will have all the same inscriptions but will slightly emphasize the masculine principle. Otherwise, they should look very similar. :)
 
----
 ![26-06-02-present-moment-consciousness-2.EN.png](26-06-02-present-moment-consciousness-2.EN.png)
 ![26-06-02-present-moment-consciousness-3.EN.png](26-06-02-present-moment-consciousness-3.EN.png)
 
 [⬆ Back to Table of Contents](#table-of-contents)
 
 ---
+
 **Creation Date:** 2026-06-02  
 **Language:** cs  
 **Model:** ChatGPT  
 **Category:** Philosophy, Physics, Cosmology  
 **Tags:** fluidity, time, consciousness, fractals, zero, universe, determinism  
+
 ---
