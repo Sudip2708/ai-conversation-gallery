@@ -1,4 +1,4 @@
-![26-06-02-present-moment-consciousness-1.CZ.png](26-06-02-present-moment-consciousness-1.CZ.png)
+![26-06-02-present-moment-consciousness-1.EN.png](26-06-02-present-moment-consciousness-1.EN.png)
 
 # 2026-06-02 - Consciousness of the Present Moment
 
