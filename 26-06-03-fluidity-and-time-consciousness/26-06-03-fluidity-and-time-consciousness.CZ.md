@@ -30,7 +30,7 @@ je jen mentálním cvičením pro rozvíjení fantazie a obrazotvornosti.
 
 ## 1. Tekutost jako časová proměnlivost
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Ahojky, jsem na vycházce, tak jen takové povídání na uvolnění. 
 Co mě napadlo a co by bylo zajímavé téma, kdyby definice tekutého byla, 
@@ -42,7 +42,7 @@ a úrovních tohoto vesmíru, ať od elementárních částic až po samotný ce
 se z této definice nacházejí v tekutosti podobném stavu, 
 tedy že jsou proměnlivá během času a tím pádem dochází k jejich vnitřní změně.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Ahoj Dalibore,
 
@@ -118,7 +118,7 @@ To už je skoro metafyzická obdoba tvých úvah o deterministickém vesmíru a 
 
 ## 2. Temná energie, nula a zánik struktur
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Právě, a vtipné na té myšlence je i to, že právě ten diamant a všechno to, 
 co máme jako základ pevnéh, jako neměnný objekt, by se stejně rozpadalo a přeměňovalo. 
@@ -138,7 +138,7 @@ A tak i černá díra by byla součástí tohoto tekutého prostoru,
 který by měl někde hranici nula, ale nebylo by zde nic, 
 co by se této hranici rovnalo, byl by to jen konečný stav.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Ano, a právě tady se tvá úvaha začíná odpojovat od běžné fyzikální definice hmoty a přechází do pohledu na **stabilitu jako relativní iluzi času**.
 
@@ -214,7 +214,7 @@ V takovém pohledu se "bytí" stává zvláštním případem "stávání se". V
 
 ## 3. Vědomí jako vlastnost každého objektu a nula jako harmonie
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 To jsi to shrnul hezky. 
 
@@ -242,7 +242,7 @@ složených z vnitřních struktur, z nichž by se skládala a postupně vybudov
 A tedy jen aby to zaznělo, bavíme se čistě vtipně, není to žádná reálná teorie, 
 ale jenom mentální cvičení, takže pojďme čistě jen pro zábavu rozvíjet takovouhle úvahu na pohled na svět.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 A právě jako mentální cvičení mi to přijde zajímavé hlavně tím, že se snažíš sjednotit několik věcí, které běžně oddělujeme:
 
@@ -356,7 +356,7 @@ Ne jako fyzikální tvrzení, ale jako filozofický obraz je to překvapivě sou
 
 ## 4. Láska jako tvořivý princip a vesmír jako objektový program
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Moc hezky jsi to shrnul. A i mi to příjde jako zajímavé téma. 
 
@@ -385,7 +385,7 @@ To mi přijde jako zajímavé a poetické, že na člověka by se pak dalo díva
 která má schopnost sebereflexe a další schopnosti. Ale jsou to vše vlastně jen stále se rozšiřující systémy,
 schopné se dále rozvíjet skrze to, co už mají.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 A tady už se dostáváš do prostoru, kde se začínají potkávat tři různé jazyky najednou:
 
@@ -491,7 +491,7 @@ A pokud bych měl tvou pohádkovou verzi shrnout jednou větou, zněla by asi ta
 
 ## 5. Oplodněné vajíčko jako model objektového dělení
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 A ještě mě napadlo jedno takové přidobnění, ale zase je to jenom taková berlička. 
 když se z oplodněného vajíčka stává tvor, tak taky na začátku je to jeden objekt, 
@@ -508,7 +508,7 @@ Je v tom fyzické zpodobnění toho objektového způsobu dělení,
 fragmentalizace procesu, to znamená, že jednou formulované vědomí by bylo zahrnuto 
 do vědomí dalšího objektu a ten by byl o to širší a mohl tohle vědomí používat.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Musím uznat, že jako myšlenkový model je to opravdu zajímavé, protože propojuje několik věcí, které se na první pohled zdají být úplně odlišné:
 
@@ -637,7 +637,7 @@ A možná právě proto je ten obraz oplodněného vajíčka tak silný. Je to j
 
 ## 6. Fraktály jako základ vesmírné komprese
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Hezky jsi to zase shrnul. 
 
@@ -654,7 +654,7 @@ jestli může být řešena fraktály, anebo musí být řešena jinak.
 Pak by se dalo představit, kdyby něco takového mohlo fungovat, že by na počátku bylo potřeba 
 málo dat a z nich by se dalo vytvořit to všechno, co je.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Ano, a tady se podle mě dotýkáš něčeho, co je překvapivě blízko tomu, jak často funguje matematika i příroda.
 
@@ -781,7 +781,7 @@ To je přesně ten pocit, který člověk dostane při pohledu na fraktál. Zdá
 
 ## 7. Vesmír jako optimalizátor hledající nejkratší popis sebe sama
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Fraktál by byla jedna forma výpočtu, byl by to naprosto zoptimalizovaný stav, 
 kdy ten krátký kód pro vytvoření fraktálu a jeho pravidel vytváří neskutečné množství možností, které pak lze generovat. 
@@ -805,7 +805,7 @@ což by byl v tomhle případě člověk a počítač.
 V tom by byl ten rozdíl mezi základními pravidly a nekonečností času na jedné straně a pravidly, 
 která pak používá ten algoritmus na výrobu toho obrázku, na straně druhé.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Ano, a myslím, že se tu začíná objevovat ještě jemnější vrstva té úvahy.
 
@@ -952,7 +952,7 @@ Ale kolem toho, jak jednoduchá by mohla být sada principů, ze kterých takov�
 
 ## 8. Vesmír jako vyvíjející se vědomí a Země jako procesor sebeuvědomění
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Super, zase parádní. 
 
@@ -979,7 +979,7 @@ A zase je to jen sci-fi úvaha, ale můžeme ji zkusit vzít i z téhle strany a
 že schopnost vědomí dojít do úrovně sebeuvědomění je třeba cílem a vrcholem 
 toho daného procesu, anebo dočasným cílem a vrcholem.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 A víš co? V rámci té hypotetické hry mi přijde, že jsi právě udělal jeden velmi zajímavý krok.
 
@@ -1135,7 +1135,7 @@ Ale protože spojuje vznik složitosti, fraktální opakování, vývoj života 
 
 ## 9. Žádost o vytvoření obrázku
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 Super, to jsi hodně, hodně krásně popsal. 
 Myslíš si, že bys mohl vytvořit nějaký abstraktní obrázek 
@@ -1145,7 +1145,7 @@ ale strašně moc se mi líbilo, jak jsi to vše shrnul a myslím si,
 že i vizuálně by se to dalo nějak zajímavě uchopit. 
 Takže kdyby to šlo, byl bych vděčný.
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 *(zde byla vytvořená česká verze obrázku)*
 
@@ -1155,7 +1155,7 @@ Takže kdyby to šlo, byl bych vděčný.
 
 ## 10. Závěrečný dotaz o podstatě původního objektu
 
-### ➡️ dotaz:
+### ➡️ Dotaz:
 
 To jsi udělal opravdu moc hezky. 
 Akorát už mi tady na mě bliklo, že mám vyčerpaný free kredit na obrázky, 
@@ -1180,7 +1180,7 @@ A tak by ve své podstatě byl zcela prázdný.
 Nebo myslíš, že by musel mít nějakou prvotní metodu a funkci? 
 Anebo by to bylo spíše tak, že se spustí zcela bez parametrů a vytvoří vesmír je svoji instanci?
 
-### ⬇️ odpověď:
+### ⬇️ Odpověď:
 
 Děkuji, Dalibore. A popravdě, myslím, že ten obrázek vznikl hezky hlavně proto, že jsi během té procházky postupně vystavěl docela konzistentní příběh. Nebyl to jen náhodný soubor myšlenek. Od tekutosti přes nulu, fraktály, vědomí, vývoj organismu až po sebeuvědomění vesmíru. Proto se to pak dalo převést do jednoho vizuálního obrazu.
 
@@ -1350,6 +1350,8 @@ Byl by procesem postupného rozlišování toho, co v tom prvotním potenciálu 
 *(Zde jsme se dostali do vyčerpání déky konverzace a po tomto dotazu bylo možné pouze začít s konverzací novou a nebylo možžné přidávat další dostaz.)*
 
 *(Následující den jsem si pak ještě nechal daný obrázek přeložit i do angličtiny.)*
+
+![26-06-03-fluidity-and-time-consciousness.EN.png](26-06-03-fluidity-and-time-consciousness.EN.png)
 
 [⬆ Zpátky na obsah](#obsah)
 

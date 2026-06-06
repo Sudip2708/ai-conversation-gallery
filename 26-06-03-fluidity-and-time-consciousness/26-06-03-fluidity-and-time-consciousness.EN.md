@@ -25,13 +25,13 @@ Rather than being presented as an actual theory, it is merely a mental exercise 
 9. [Request to Create an Image](#9-request-to-create-an-image)
 10. [Final Question About the Nature of the Original Object](#10-final-question-about-the-nature-of-the-original-object)
 
-[⬅ Back to the main page](../README.md#2026-06-03-fluidity-and-time-consciousness)
+[⬅ Back to the main page](../README.md#26-06-03-fluidity-and-time-consciousness)
 
 ---
 
 ## 1. Fluidity as Temporal Variability
 
-### ➡️ question:
+### ➡️ Question:
 
 Hello! I’m out for a walk, so this is just a casual chat to unwind.
 Here’s an idea I had: What if we defined "fluid" as any form of anything that does not remain unchanged in absolute time, where absolute time is eternity?
@@ -40,7 +40,7 @@ This definition would imply that all media—across every layer and level of thi
 
 ---
 
-### ⬇️ answer:
+### ⬇️ Answer:
 
 Hey Dalibor,
 
@@ -116,7 +116,7 @@ This is almost a metaphysical counterpart to your thoughts on a deterministic un
 
 ## 2. Dark Energy, Zero, and the Dissolution of Structures
 
-### ➡️ question:
+### ➡️ Question:
 
 Exactly! And the funny thing about this idea is that even a diamond and everything we consider the foundation of solidity—immutable objects—would still decay and transform.
 
@@ -126,7 +126,7 @@ Fluidity could also be likened to a fall into a singularity, where every harder 
 
 ---
 
-### ⬇️ answer:
+### ⬇️ Answer:
 
 Yes, and this is where your thought begins to detach from the conventional physical definition of matter and shifts into a perspective on **stability as a relative illusion of time**.
 
@@ -202,7 +202,7 @@ In this view, "being" becomes a special case of "becoming." Everything exists on
 
 ## 3. Consciousness as a Property of Every Object and Zero as Harmony
 
-### ➡️ question:
+### ➡️ Question:
 
 You summed that up beautifully.
 
@@ -220,7 +220,7 @@ And so, just to clarify, we’re talking purely for fun—this isn’t any real 
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 And precisely as a mental exercise, I find it interesting mainly because you’re trying to unify several things that we usually keep separate:
 
@@ -331,7 +331,7 @@ Not as a physical statement, but as a philosophical image, this is surprisingly 
 
 ## 4. Love as a Creative Principle and the Universe as an Object-Oriented Program
 
-### ➡️ question:
+### ➡️ Question:
 
 That was a great summary. And I find it an interesting topic.
 
@@ -345,7 +345,7 @@ This seems interesting and poetic to me—that a human could then be viewed as a
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 And here, we’re entering a space where three different languages start to intersect at once:
 
@@ -448,7 +448,7 @@ And if I were to summarize your fairy-tale version in one sentence, it would go 
 
 ## 5. Fertilized Egg as a Model of Object Division
 
-### ➡️ question:
+### ➡️ Question:
 
 And I had another thought—again, it’s just a crutch. When a fertilized egg becomes a creature, at the beginning, it’s a single object that splits, and then the cells continue to divide until they reach a homogeneous state where they start forming more complex structures, organs, and eventually the entire little creature.
 
@@ -460,7 +460,7 @@ This is a physical embodiment of this object-oriented way of division, the fragm
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 I have to admit that as a thought model, this is really interesting because it connects several things that at first glance seem completely different:
 
@@ -585,7 +585,7 @@ And perhaps that’s why the image of the fertilized egg is so powerful. It’s 
 
 ## 6. Fractals as the Foundation of Universal Compression
 
-### ➡️ question:
+### ➡️ Question:
 
 You summed that up nicely again.
 
@@ -597,7 +597,7 @@ Then, it could be imagined that if something like this could work, at the beginn
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 Yes, and here, I think you’re touching on something that’s surprisingly close to how mathematics and nature often work.
 
@@ -720,7 +720,7 @@ That’s exactly the feeling you get when you look at a fractal. A seemingly inf
 
 ## 7. The Universe as an Optimizer Seeking the Shortest Description of Itself
 
-### ➡️ question:
+### ➡️ Question:
 
 A fractal would be one form of computation—it would be an absolutely optimized state where the short code for creating the fractal and its rules generates an incredible number of possibilities that can then be generated.
 
@@ -734,7 +734,7 @@ In this would lie the difference between the basic rules and the infinity of tim
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 Yes, and I think that here, a subtler layer of this thought begins to emerge.
 
@@ -879,7 +879,7 @@ And this is an idea that fascinates me as much as it does you—because every ti
 
 ## 8. The Universe as Evolving Consciousness and Earth as a Processor of Self-Awareness
 
-### ➡️ question:
+### ➡️ Question:
 
 Great, that was awesome again.
 
@@ -893,7 +893,7 @@ And again, this is just a sci-fi thought, but we can try to take it from this si
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 You know what? Within the framework of this hypothetical game, I think you’ve just taken a very interesting step.
 
@@ -1047,7 +1047,7 @@ And when you look at it from this perspective, philosophy, science, poetry, and 
 
 ## 9. Request to Create an Image
 
-### ➡️ question:
+### ➡️ Question:
 
 That was really, really beautifully put.
 Do you think you could create some kind of abstract image and try to capture this feeling, this fantasy, in a visual form?
@@ -1056,7 +1056,7 @@ So if that’s possible, I’d be grateful.
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 *(Here, the Czech version of the image was created.)*
 
@@ -1066,7 +1066,7 @@ So if that’s possible, I’d be grateful.
 
 ## 10. Final Question About the Nature of the Original Object
 
-### ➡️ question:
+### ➡️ Question:
 
 You did that really beautifully.
 It’s just that my free image credit has run out here, so when it renews, I’ll have you translate it into English for me.
@@ -1086,7 +1086,7 @@ Or would it be more like it starts with no parameters and creates the universe a
 
 ---
 ---
-### ⬇️ answer:
+### ⬇️ Answer:
 
 Thank you, Dalibor. And honestly, I think the image turned out nicely mainly because, during that walk, you gradually built a fairly consistent story. It wasn’t just a random set of thoughts. From fluidity through zero, fractals, consciousness, the development of organisms, to the self-awareness of the universe. That’s why it could then be translated into a single visual image.
 

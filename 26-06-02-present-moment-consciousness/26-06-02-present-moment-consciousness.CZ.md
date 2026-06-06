@@ -1,14 +1,6 @@
----
-Datum vytvoření: 2026-06-02  
-Jazyk: cs  
-Model: ChatGPT  
-Kategorie: filozofie, fyzika, kosmologie  
-Tagy: tekutost, čas, vědomí, fraktály, nula, vesmír, determinismus  
----
+![26-06-02-present-moment-consciousness-1.CZ.png](26-06-02-present-moment-consciousness-1.CZ.png)
 
 # 2026-06-02 - Vědomí přítomného okamžiku
-
-![26-06-02-present-moment-consciousness-1.CZ.png](26-06-02-present-moment-consciousness-1.CZ.png)
 
 ## Úvod
 
@@ -20,28 +12,29 @@ a vytvořil dvě další varianty vycházející ze stejného tématu.
 
 ---
 
-# Obsah
+## Obsah
 
-1. Bez lásky by nebylo stvoření
-2. Nejvzdálenější bod od této pozice
-3. Přítomný okamžik
-4. Nyní je všudypřítomné
-5. Žádost o vytvoření obrázku
-6. Úprava obrázku a vytvoření dalších variant
+1. [Bez lásky by nebylo stvoření](#1-bez-lásky-by-nebylo-stvoření)
+2. [Nejvzdálenější bod od této pozice](#2-nejvzdálenější-bod-od-této-pozice)
+3. [Přítomný okamžik](#3-přítomný-okamžik)
+4. [Nyní je všudypřítomné](#4-nyní-je-všudypřítomné)
+5. [Žádost o vytvoření obrázku](#5-žádost-o-vytvoření-obrázku)
+6. [Úprava obrázku a vytvoření dalších variant](#6-úprava-obrázku-a-vytvoření-dalších-variant)
 
+[⬅ Zpátky úvodní stránku](../README.md#26-06-02-consciousness-of-the-present-moment)
 
 ---
 
-# 1. Bez lásky by nebylo stvoření
+## 1. Bez lásky by nebylo stvoření
 
-## Dotaz
+### ➡️ Dotaz:
 
-Bez lásky by nebylo stvoření. 
-Bez lásky by stvoření směřovalo k prázdnotě a nehybnosti. 
-Láska je důvod, proč se vše děje. 
+Bez lásky by nebylo stvoření.  
+Bez lásky by stvoření směřovalo k prázdnotě a nehybnosti.   
+Láska je důvod, proč se vše děje.   
 Je to ten konečný rozhodovatel v procesu, který má schopnost ovlivnit to, aby nám bylo lépe.
 
-## Odpověď
+### ⬇️ Odpověď:
 
 Tohle je velmi zajímavá filozofická myšlenka.
 
@@ -69,16 +62,18 @@ Dokonce bych tvou úvahu formuloval ještě stručněji:
 
 Pokud je smrt návratem k nehybnosti a prázdnotě, pak láska je princip, který neustále volí další krok existence. Ne proto, že musí, ale proto, že chce, aby něco bylo.
 
+[⬆ Zpátky na obsah](#obsah)
+
 ---
 
-# 2. Nejvzdálenější bod od této pozice
+## 2. Nejvzdálenější bod od této pozice
 
-## Dotaz
+### ➡️ Dotaz:
 
-Nejvzdálenější bod od této pozice je přesně touto pozicí, 
+Nejvzdálenější bod od této pozice je přesně touto pozicí,  
 a to ve všech směrech, a jak z vnějšku, tak i zevnitř.
 
-## Odpověď
+### ⬇️ Odpověď:
 
 Tohle zní skoro jako věta z paradoxní geometrie nebo metafyziky.
 
@@ -110,17 +105,19 @@ Matematicky bych to přirovnal k prostoru bez hranice, duchovně k jednotě, kte
 
 Nejdelší cesta od domova vede domů. A když je domov všude, pak je nejvzdálenější místo totožné s místem, kde právě stojíš.
 
+[⬆ Zpátky na obsah](#obsah)
+
 ---
 
-# 3. Přítomný okamžik
+## 3. Přítomný okamžik
 
-## Dotaz
+### ➡️ Dotaz:
 
-Jediné, co je reálné, je přítomný okamžik. 
-A na nás je zařídit, aby nám byl příjemný a dokázali jsme si ho užít, 
+Jediné, co je reálné, je přítomný okamžik.  
+A na nás je zařídit, aby nám byl příjemný a dokázali jsme si ho užít,   
 ať to vnějších aktivitách, anebo skrze hloubku meditace.
 
-## Odpověď
+### ⬇️ Odpověď:
 
 Tohle je myšlenka, která má velmi blízko k některým proudům filozofie i meditativních tradic.
 
@@ -163,17 +160,20 @@ Skutečnost je přítomnost.
 
 A umění života spočívá v tom, naučit se tuto přítomnost prožívat tak, aby stála za to.
 
+[⬆ Zpátky na obsah](#obsah)
+
 ---
 
-# 4. Nyní je všudypřítomné
+## 4. Nyní je všudypřítomné
 
-## Dotaz
+### ➡️ Dotaz:
 
-Nyní je všudypřítomné a je v něm obsažen každičký okamžik. 
-Tím, že vše začíná a končí uvnitř něj, je propojené s celým vesmírem 
-a vším, čím byl, co se kdy stalo, stane a bude do budoucna.
+Nyní je všudypřítomné a je v něm obsažen každičký okamžik.  
+Tím, že vše začíná a končí uvnitř něj, 
+je vše propojené s celým vesmírem a vším, čím byl, 
+co se kdy stalo, stane a bude do budoucna.
 
-## Odpověď
+### ⬇️ Odpověď:
 
 Tohle už míří k velmi hlubokému pohledu na čas.
 
@@ -213,25 +213,31 @@ Přítomný okamžik není návštěvníkem vesmíru.
 
 Je místem, kde se celý vesmír odehrává.
 
+[⬆ Zpátky na obsah](#obsah)
+
 ---
 
-# 5. Žádost o vytvoření obrázku
+## 5. Žádost o vytvoření obrázku
 
-## Dotaz
+### ➡️ Dotaz:
 
 Vytvoř mi nějaký obrázek inspirovaný těmito čtyřmi texty.
 
-## Odpověď
+### ⬇️ Odpověď:
 
 *(zde byla vytvořená první česká verze obrázku)*
 
+[⬆ Zpátky na obsah](#obsah)
+
 ---
 
-# 6. Úprava obrázku a vytvoření dalších variant
+## 6. Úprava obrázku a vytvoření dalších variant
 
-## Dotaz
+### ➡️ Dotaz:
 
 *(Následuje výpis jednotlivých změn tak jak probíhali v čase za sebou.)*
+
+![26-06-02_Filozofie lásky a tvoření1.CZ.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD1.CZ.png)
 
 1. Změna:
 Super a parádní, a tedy obrázek nech tak, jak je, a jen upravíme ty texty a to následovně:
@@ -246,11 +252,15 @@ s celým vesmírem a vším, čím byl, co se kdy stalo, stane a bude do budoucn
 Nyní je propojené s celým vesmírem, vším, čím byl a čím je, co se kdy stalo, a stane se do budoucna.
 A tedy obrázek měnit vůbec nemusíš a jen mi pozměň ty texty :-)
 
+![26-06-02_Filozofie lásky a tvoření2.CZ.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD2.CZ.png)
+
 2. Změna:  
 Super a díky moc :-) Naprosto parádní :-)
 A tedy poslední, o co bych tě poprosil, zda bys ho mohl překreslit ještě jednou – a tedy obrázek nech, 
 a jen všechny ty 4 texty přelož do angličtiny :-)
 A taky budeš muset přepsat i to prostřední NYNÍ na NOW :-)
+
+![26-06-02_Filozofie lásky a tvoření3.EN.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD3.EN.png)
 
 3. Změna:  
 Ještě jsem tě chtěl poprosit, zda bys ty texty na pravé straně mohl mít zarovnané vpravo, 
@@ -259,6 +269,8 @@ Tedy nejen, že se texty na pravé straně vystředí doprava, ale pak je potře
 po sobě jdoucí texty také lícovaly – tedy když bys okolo jejich hran nakreslil čáru, tak by se vytvořil obdélník, 
 který by byl vystředěný vůči obrázku – texty by tedy vytvořily opticky tento rámeček.
 Nevím, jestli jsem to dobře vysvětlil, kdyby ne, tak se klidně ještě zeptej :-)
+
+![26-06-02_Filozofie lásky a tvoření4.EN.png](_original_conversation/26-06-02_Filozofie%20l%C3%A1sky%20a%20tvo%C5%99en%C3%AD4.EN.png)
 
 4. Změna:  
 Parádní a díky moc :-) A nyní mi vytvoř to samé, ale malinko pozměň ten obrázek, tak aby byl více 
@@ -275,11 +287,16 @@ Ale tedy to jen jeden nápad, zbytek ztvárnění nechám na tobě, a teď zadá
 kde lehce dominuje ženský princip, vytvořit druhý do série, který bude mít všechny nápisy stejné, 
 a jen bude mít lehce dominantní mužský princip. Ale jinak by vypadali hodně podobně :)
 
-## Odpověď
+![26-06-02-present-moment-consciousness-2.EN.png](26-06-02-present-moment-consciousness-2.EN.png)
 
-![26-06-02-present-moment-consciousness-1.EN.png](26-06-02-present-moment-consciousness-1.EN.png)
+![26-06-02-present-moment-consciousness-3.EN.png](26-06-02-present-moment-consciousness-3.EN.png)
 
-![26-06-02-present-moment-consciousness-2.EN.png](../26-06-02-present-moment-consciousness/26-06-02-present-moment-consciousness-2.EN.png)
+[⬆ Zpátky na obsah](#obsah)
 
-![26-06-02-present-moment-consciousness-3.EN.png](../26-06-02-present-moment-consciousness/26-06-02-present-moment-consciousness-3.EN.png)
-
+---
+Datum vytvoření: 2026-06-02  
+Jazyk: cs  
+Model: ChatGPT  
+Kategorie: filozofie, fyzika, kosmologie  
+Tagy: tekutost, čas, vědomí, fraktály, nula, vesmír, determinismus  
+---
