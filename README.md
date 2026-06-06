@@ -8,7 +8,7 @@ This repository is not only a gallery of images, but also an archive of ideas, c
 
 The goal is not to present definitive answers, but to explore possibilities, questions, and perspectives through dialogue and visual interpretation.
 
-[About this repository.md](about_this_repository.md)
+[About this repository](about_this_repository.md)
 
 
 ---

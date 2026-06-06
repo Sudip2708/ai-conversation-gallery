@@ -64,4 +64,4 @@ The artwork captures a destination, while the dialogue preserves the journey.
 
 ---
 
-[⬅ Back to contents](README.md#contents)
+[⬅ Back to readme contents](README.md#contents)
